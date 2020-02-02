@@ -8,7 +8,7 @@ int main()
   cin>>a;
   cout<<"Input second integer";
   cin>>b;
-
+  cout<<"Sum is";
   int sum=a+b;
    cout<<sum<< '\n';
 }
